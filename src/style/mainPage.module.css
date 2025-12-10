@@ -1,0 +1,21 @@
+.stopmostcontainer{
+    /* background-image: url("../Pics/pxfuel\ \(1\).jpg");
+    background-size: cover;
+    background-position: fixed; */
+    /* background-color: rgb(23, 22, 22); */
+    background-color: #bcab97;
+    height:100vh;
+    padding-top: 45px;
+    /* border: solid red; */
+}
+
+.mainhands{
+    background-image: url('../Pics/Hands.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-position-y: calc(100% - 12px);
+    /* border: solid red; */
+    height:150%;
+    min-height: 1000px;
+}

@@ -1,0 +1,53 @@
+
+
+.navbaronly{
+    /* border: solid; */
+    background-color: #bcab97;
+    color: white;
+    position: fixed;
+    font-family: "Cormorant Garamond", serif;
+    height: 45px;
+    /* box-shadow: rgba(37, 37, 37, 0.2) 0px 8px 24px; */
+}
+
+/* Ensure all child text elements reflect the navbar text color */
+.navbaronly a,
+.navbaronly h1,
+.navbaronly h2,
+.navbaronly h3,
+.navbaronly h4,
+.navbaronly h5,
+.navbaronly h6,
+.navbaronly p,
+.navbaronly span,
+.navbaronly button {
+    color: white;
+}
+
+/* Subtle hover state */
+.navbaronly a:hover,
+.navbaronly p:hover,
+.navbaronly span:hover,
+.navbaronly button:hover {
+    color: #f0f0f0;
+}
+
+/* Active link styles for react-router NavLink */
+.navbaronly a.active,
+.navbaronly a[aria-current="page"] {
+    position: relative;
+    color: #f0f0f0;
+    font-weight: 600;
+}
+
+.navbaronly a.active::after,
+.navbaronly a[aria-current="page"]::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -6px;
+    height: 2px;
+    background-color: #f0f0f0;
+    border-radius: 2px;
+}

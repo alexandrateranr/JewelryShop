@@ -1,0 +1,30 @@
+.cartContainer {
+  min-height: 100vh;
+  background-color: #fafafa;
+  padding: 60px 0;
+}
+
+.cartItem {
+  transition: all 0.3s ease;
+}
+
+.cartItem:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12) !important;
+  transform: translateY(-2px);
+}
+
+.orderSummary {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.orderSummary:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .cartContainer {
+    padding: 40px 0;
+  }
+}
