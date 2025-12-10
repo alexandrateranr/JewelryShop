@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/JewelryShop/static/css/main.b87c3098.css",
+    "main.js": "/JewelryShop/static/js/main.f5d27545.js",
+    "static/js/787.6669ae45.chunk.js": "/JewelryShop/static/js/787.6669ae45.chunk.js",
+    "static/media/Hands.png": "/JewelryShop/static/media/Hands.8c4bfc3f94219d37aaf0.png",
+    "static/media/earing.jpg": "/JewelryShop/static/media/earing.76fef6a3447620908d00.jpg",
+    "static/media/giftBox.png": "/JewelryShop/static/media/giftBox.d6a0526249e5d57c765c.png",
+    "static/media/watchesnew-1612817159450-08a180df028b.avif": "/JewelryShop/static/media/watchesnew-1612817159450-08a180df028b.188e5878797b6bb0894d.avif",
+    "static/media/bracelet.jpg": "/JewelryShop/static/media/bracelet.74c6ed3e3f2e0bc7fdf9.jpg",
+    "static/media/photo-1506049420574-b51320eee265.avif": "/JewelryShop/static/media/photo-1506049420574-b51320eee265.9d66edce9cac57a3239e.avif",
+    "static/media/photo-1569397288884-4d43d6738fbd.avif": "/JewelryShop/static/media/photo-1569397288884-4d43d6738fbd.4d02810aac7e87adf0f4.avif",
+    "static/media/photo-1617038260897-41a1f14a8ca0.avif": "/JewelryShop/static/media/photo-1617038260897-41a1f14a8ca0.6fbd8d74e000dbcebe4f.avif",
+    "static/media/pendant-1611583027838-515a1087afdb.avif": "/JewelryShop/static/media/pendant-1611583027838-515a1087afdb.dec926486781cdc967e2.avif",
+    "static/media/menjewellery1620891239438-eb4b8b467fb7.avif": "/JewelryShop/static/media/menjewellery1620891239438-eb4b8b467fb7.e4a7d1f70cedc60c79db.avif",
+    "static/media/Rhinestone-Earrings-Jewelry-Ladies-Temperament-Fashion-Full-Crystal-Shiny-Tassel-Earrings-Party-Wedding-Bijoux-Gifts-Wholesale.webp": "/JewelryShop/static/media/Rhinestone-Earrings-Jewelry-Ladies-Temperament-Fashion-Full-Crystal-Shiny-Tassel-Earrings-Party-Wedding-Bijoux-Gifts-Wholesale.3561609bcdd87a0778e8.webp",
+    "static/media/categoryImgdefault.jpg": "/JewelryShop/static/media/categoryImgdefault.a8e1845f72087628b16c.jpg",
+    "static/media/necklace.jpg": "/JewelryShop/static/media/necklace.d02ed603224d89f79b20.jpg",
+    "static/media/5-Carat-Diamond-Dress-Ring-with-Basket-Setting-in-Platinum.jpg": "/JewelryShop/static/media/5-Carat-Diamond-Dress-Ring-with-Basket-Setting-in-Platinum.c8b754ce21e0c18a2e94.jpg",
+    "static/media/Rings.jpg": "/JewelryShop/static/media/Rings.bbb01896b1284c69d931.jpg",
+    "index.html": "/JewelryShop/index.html",
+    "main.b87c3098.css.map": "/JewelryShop/static/css/main.b87c3098.css.map",
+    "main.f5d27545.js.map": "/JewelryShop/static/js/main.f5d27545.js.map",
+    "787.6669ae45.chunk.js.map": "/JewelryShop/static/js/787.6669ae45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b87c3098.css",
+    "static/js/main.f5d27545.js"
+  ]
+}
